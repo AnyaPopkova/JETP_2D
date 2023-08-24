@@ -4,5 +4,5 @@ The project is dedicated to predicting the properties of films of quasi-two-dime
 
 The repository contains files: 
 1. Jupyter Notebook with neural network code 
-2. Example of a used dataset (the dataset is self-assembled based on experimental results, so it cannot be posted to the public)
+2. Example of a used dataset (the dataset is self-assembled based on experimental results, so it cannot be fully posted to the public)
 
